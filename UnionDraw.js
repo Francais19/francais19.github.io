@@ -28,7 +28,7 @@ var Messages = {MOVE:"MOVE",
 var isPenDown = false;
 
 // Line defaults
-var defaultLineColor = "#AAAAAA";
+var defaultLineColor = "#008000";
 var defaultLineThickness = 1;
 var maxLineThickness = 30;
 
